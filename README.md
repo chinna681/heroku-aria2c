@@ -1,3 +1,5 @@
+I Just modified the aria2c.conf file in order to simulate a **Transmission client**. In order to bypass the list of bittorrent clients banned in certain private trackers.
+
 # Heroku aria2c
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
