@@ -1,4 +1,4 @@
-I Just modified the aria2c.conf file in order to simulate a **Transmission client**. This is to bypass certain private trackers where Aria2 is banned.
+I only modified the aria2c.conf file in order to simulate a **Transmission client**. This is to bypass certain private trackers where Aria2 is banned.
 
 # Heroku aria2c
 
